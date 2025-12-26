@@ -1,5 +1,5 @@
 # Quick References
-## [Author](#author)| [📗Description](#description)| [📃My favourite university subjects](#my-favourite-university-subjects)| [🧑‍🎓Online VS Offline studying](#online-vs-offline-studying)| [My favourite math formulae](#my-favourite-math-formulae) | [My coding skills](#my-coding-skills)| [The image I like](#the-image-i-like)|
+## [Author](#author)| [📗Description](#description)| [📃My favourite university subjects](#my-favourite-university-subjects)| [🧑‍🎓Online VS Offline studying](#here-is-what-i-think-about-each-of-the-studying-options)| [My favourite math formulae](#my-favourite-math-formulae) | [My coding skills](#i-am-a-skilled-enough-to-do-some-coding---here-is-one-of-the-examples)| [The image I like](#the-image-i-like)|
 
 
 
