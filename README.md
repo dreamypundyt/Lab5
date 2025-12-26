@@ -29,6 +29,8 @@ Hello! My name is Myroslav,and this is my first GitHub repo. Here I practice my 
 | Online | Offline |
 |:------:|:------:|
 | You have more free time, no need to commute | You comprehend the material better in real life |
+| You can study from any place | It is better for group projects & socialization |
+
 
 ## My favourite Math formulae
 
