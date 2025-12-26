@@ -34,24 +34,24 @@ Hello! My name is Myroslav,and this is my first GitHub repo. Here I practice my 
 
 ### Here are some of my appriciated math formulae:
 
-$$
+```math
 \pi r^2
-$$
+```
 -This is Area of the circle formula;
 
-$$
+```math
 cos2\alpha=cos^2\alpha-sin^2\alpha
-$$
+```
 -This is cos of a double angle formula;
 
-$$
+```math
  f^{\prime }(e^x)=e^x
-$$
+```
 -This is a derivative of e to the x power function formula;
 
-$$
+```math
  f^{\prime }(arcsin(θ))=(\frac{1}{\sqrt{1-θ^2}})dx  
-$$
+```
 -This is a derivative of arcsin(θ) function formula;
 
 ## 🧑‍💻My coding skills
