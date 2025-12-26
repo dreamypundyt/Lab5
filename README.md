@@ -74,4 +74,4 @@ Use this [web-compiler](https://www.onlinegdb.com/online_c++_compiler) to check 
 
 ### I like this image because it conveys a sense of calm and solitude, with the small illuminated building grounded beneath a vast night sky.
 
-images/zoltan-tasi-b3PuuRU8IPc-unsplash.png
+![image](images/zoltan-tasi-b3PuuRU8IPc-unsplash.png)
