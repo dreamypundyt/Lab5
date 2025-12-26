@@ -1,5 +1,5 @@
 # Quick References
-## [Author](👨‍🦰💻Author)| [Description](📗Description)| [📃My favourite university subjects](📃My)| [🧑‍🎓Online VS Offline studying](🧑‍🎓Online)| [My favourite math formulae](Math) | [My coding skills](🧑‍💻My)| [The image I like](image)|
+## [Author](#author)| [📗Description](#description)| [📃My favourite university subjects](#my-favourite-university-subjects)| [🧑‍🎓Online VS Offline studying](#online-vs-offline-studying)| [My favourite math formulae](#my-favourite-math-formulae) | [My coding skills](#my-coding-skills)| [The image I like](#the-image-i-like)|
 
 
 
